@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;0,500;1,100&display=swap');
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	background: #e0eafc;
+	min-height: 100vh;
+
+}
+p{
+	margin: 5px;
+	font-style: normal;
+	font-weight: bold;
+	font-size: large;
+}
+img{
+	border-radius: 50%;
+	height: 300px;
+}
+.main-content{
+	justify-content: center;
+	align-items: center;
+	display: block;
+	text-align: center;
+}
